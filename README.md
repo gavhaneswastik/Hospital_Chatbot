@@ -31,6 +31,7 @@ A Hospital Chatbot application developed using **Python** and **Streamlit** that
 
 ---
 
+-![Hospital Chatbot](Screenshot 2026-05-18 125638.png)
 # 📂 Project Structure
 
 ```bash
@@ -43,6 +44,5 @@ hospital-chatbot/
 └── .gitignore
 # 🏥 Hospital Chatbot System
 
-![Hospital Chatbot](Screenshot 2026-05-18 125638.png)
 
 A Hospital Chatbot application developed using Python and Streamlit.
