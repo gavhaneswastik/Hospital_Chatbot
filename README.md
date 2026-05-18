@@ -43,6 +43,6 @@ hospital-chatbot/
 └── .gitignore
 # 🏥 Hospital Chatbot System
 
-![Hospital Chatbot](images/chatbot.png)
+![Hospital Chatbot](images/Screenshot 2026-05-18 125638.png)
 
 A Hospital Chatbot application developed using Python and Streamlit.
